@@ -85,3 +85,4 @@ if bufwinnr(1)
   map + <C-W>+
   map - <C-W>-
 endif
+highlight clear SignColumn

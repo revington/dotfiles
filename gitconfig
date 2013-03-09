@@ -1,0 +1,10 @@
+[user]
+	name = Pedro Narciso García Revington
+	email = p.revington@gmail.com
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	editor = vim
